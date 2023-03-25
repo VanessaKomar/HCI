@@ -1,0 +1,84 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  
+Age:  
+Gender:  
+Device:  
+OS and Version:  
+Screen Size:  
+Screen Resolution:  
+Web Browser and Version:  
+Ad Blocker and Version:  
+Internet Connection:  
+Download Speed:  
+Screen Recording Software:  
+Recording Resolution:  
+Planned Date of Evaluation:  
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o EE-Neg01
+
+  Title:  Short Heading for the Problem
+
+  Description:
+
+  Two or more sentences describing the problem.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  ee-neg01-keywords.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:
+
+  How Reproducible?:  Options → That → This
+
+
+
+o EE-Neg02
+
+...
+
+
+etc.
+
+
+
+
+
+
+Positive Findings
+-----------------
+
+o EE-Pos01
+
+  Title:  Short Heading for the Positive Finding
+
+  Description:
+
+  Two or more sentences describing the positive finding.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  ee-pos01-keywords.mp4
+
+  How Reproducible?:  Options → This → That
+
+
+
+o EE-Pos02
+
+...
+
+
+etc.
+
+
