@@ -1,0 +1,84 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  Rolando Kristian Unger (RU)
+Age:  22
+Gender:  male
+Device:  iPhone 13 Pro
+OS and Version:  iOS 16.3.1
+Screen Size:  6.06"
+Screen Resolution:  1170x2532
+Web Browser and Version:  Safari 16.3
+Ad Blocker and Version:  1Blocker 5.3.4
+Internet Connection:  WiFi
+Download Speed:  30 mbps
+Screen Recording Software:  iOS Screen Recording
+Recording Resolution:  1170x2532
+Planned Date of Evaluation:  TBD
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o EE-Neg01
+
+  Title:  Short Heading for the Problem
+
+  Description:
+
+  Two or more sentences describing the problem.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  ee-neg01-keywords.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:
+
+  How Reproducible?:  Options → That → This
+
+
+
+o EE-Neg02
+
+...
+
+
+etc.
+
+
+
+
+
+
+Positive Findings
+-----------------
+
+o EE-Pos01
+
+  Title:  Short Heading for the Positive Finding
+
+  Description:
+
+  Two or more sentences describing the positive finding.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  ee-pos01-keywords.mp4
+
+  How Reproducible?:  Options → This → That
+
+
+
+o EE-Pos02
+
+...
+
+
+etc.
+
+
