@@ -1,0 +1,84 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  Vanessa Komar
+Age:  22
+Gender:  Female
+Device:  iPhone 13 Pro
+OS and Version:  iOS 16.1.1
+Screen Size:  6.1"
+Screen Resolution:  1532x1170
+Web Browser and Version:  Chrome 111.0.5563.72
+Ad Blocker and Version:  Chrome built-in ad blocker
+Internet Connection:  WiFi
+Download Speed:  12 mbps
+Screen Recording Software:  iOS Screen Recording
+Recording Resolution:  TODO
+Planned Date of Evaluation:  2023-04-15
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o VK-Neg01
+
+  Title:  Short Heading for the Problem
+
+  Description:
+
+  Two or more sentences describing the problem.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  vk-neg01-keywords.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:
+
+  How Reproducible?:  Options → That → This
+
+
+
+o VK-Neg02
+
+...
+
+
+etc.
+
+
+
+
+
+
+Positive Findings
+-----------------
+
+o VK-Pos01
+
+  Title:  Short Heading for the Positive Finding
+
+  Description:
+
+  Two or more sentences describing the positive finding.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  vk-pos01-keywords.mp4
+
+  How Reproducible?:  Options → This → That
+
+
+
+o VK-Pos02
+
+...
+
+
+etc.
+
+
