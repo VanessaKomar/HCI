@@ -3,19 +3,19 @@ Mobile Evaluation Log
 =====================
 
 Evaluator:  
-Age:  
-Gender:  
-Device:  
-OS and Version:  
-Screen Size:  
-Screen Resolution:  
-Web Browser and Version:  
-Ad Blocker and Version:  
-Internet Connection:  
-Download Speed:  
-Screen Recording Software:  
-Recording Resolution:  
-Planned Date of Evaluation:  
+Age: 21  
+Gender: m
+Device: HP Pavilion 15-cb004ng
+OS and Version: Arch Linux
+Screen Size: 15.6″
+Screen Resolution: 1920×1080 
+Web Browser and Version: Firefox 111.0.1
+Ad Blocker and Version: -
+Internet Connection: A1
+Download Speed: 60
+Screen Recording Software: OBS Studio 29.0.2-2
+Recording Resolution: 1920×1080
+Planned Date of Evaluation: 2023-03-26 
 
 
 
