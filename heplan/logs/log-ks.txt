@@ -2,20 +2,20 @@
 Mobile Evaluation Log
 =====================
 
-Evaluator:  Vanessa Komar
-Age:  22
+Evaluator:  Katharina Schmied
+Age:  20
 Gender:  Female
-Device:  iPhone 13 Pro
-OS and Version:  iOS 16.1.1
-Screen Size:  6.06"
-Screen Resolution:  1170×2532
-Web Browser and Version:  Chrome 111.0.5563.72
-Ad Blocker and Version:  Chrome built-in ad blocker
+Device:  Lenovo ThinkPad T14 Gen 1 Laptop
+OS and Version:  Windows 10 Pro
+Screen Size:  14″
+Screen Resolution:  1920×1080
+Web Browser and Version:  Chrome 111.0.5563.111 (64-Bit)
+Ad Blocker and Version:  Total Adblock - Ad Blocker 3.7.0
 Internet Connection:  WiFi
-Download Speed:  20 mbps
-Screen Recording Software:  iOS Screen Recording
-Recording Resolution:  888×1920
-Planned Date of Evaluation:  2023-04-15
+Download Speed:  52 mbps
+Screen Recording Software:  OBS Studio 29.0.2
+Recording Resolution:  1920×1080
+Planned Date of Evaluation:  2023-04-14
 
 
 
@@ -23,7 +23,7 @@ Planned Date of Evaluation:  2023-04-15
 Negative Findings (Problems)
 -----------------
 
-o VK-Neg01
+o KS-Neg01
 
   Title:  Short Heading for the Problem
 
@@ -33,7 +33,7 @@ o VK-Neg01
   Here is the second sentence. Here is a third sentence.
 
 
-  Video Clip:  vk-neg01-keywords.mp4
+  Video Clip:  ks-neg01-keywords.mp4
 
   Heuristic:  A04 Consistency
 
@@ -43,7 +43,7 @@ o VK-Neg01
 
 
 
-o VK-Neg02
+o KS-Neg02
 
 ...
 
@@ -58,7 +58,7 @@ etc.
 Positive Findings
 -----------------
 
-o VK-Pos01
+o KS-Pos01
 
   Title:  Short Heading for the Positive Finding
 
@@ -68,13 +68,13 @@ o VK-Pos01
   Here is the second sentence. Here is a third sentence.
 
 
-  Video Clip:  vk-pos01-keywords.mp4
+  Video Clip:  ks-pos01-keywords.mp4
 
   How Reproducible?:  Options → This → That
 
 
 
-o VK-Pos02
+o KS-Pos02
 
 ...
 

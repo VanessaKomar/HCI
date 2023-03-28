@@ -14,8 +14,8 @@ Ad Blocker and Version:  none
 Internet Connection:  WiFi
 Download Speed:  30 mbps
 Screen Recording Software:  iOS Screen Recording
-Recording Resolution:  1170x2532
-Planned Date of Evaluation:  TBD
+Recording Resolution:  888×1920
+Planned Date of Evaluation:  2023-04-15
 
 
 
@@ -23,7 +23,7 @@ Planned Date of Evaluation:  TBD
 Negative Findings (Problems)
 -----------------
 
-o EE-Neg01
+o RU-Neg01
 
   Title:  Short Heading for the Problem
 
@@ -33,7 +33,7 @@ o EE-Neg01
   Here is the second sentence. Here is a third sentence.
 
 
-  Video Clip:  ee-neg01-keywords.mp4
+  Video Clip:  ru-neg01-keywords.mp4
 
   Heuristic:  A04 Consistency
 
@@ -43,7 +43,7 @@ o EE-Neg01
 
 
 
-o EE-Neg02
+o RU-Neg02
 
 ...
 
@@ -58,7 +58,7 @@ etc.
 Positive Findings
 -----------------
 
-o EE-Pos01
+o RU-Pos01
 
   Title:  Short Heading for the Positive Finding
 
@@ -68,13 +68,13 @@ o EE-Pos01
   Here is the second sentence. Here is a third sentence.
 
 
-  Video Clip:  ee-pos01-keywords.mp4
+  Video Clip:  ru-pos01-keywords.mp4
 
   How Reproducible?:  Options → This → That
 
 
 
-o EE-Pos02
+o RU-Pos02
 
 ...
 
