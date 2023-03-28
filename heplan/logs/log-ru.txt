@@ -9,8 +9,8 @@ Device:  iPhone 13 Pro
 OS and Version:  iOS 16.3.1
 Screen Size:  6.06"
 Screen Resolution:  1170x2532
-Web Browser and Version:  Safari 16.3
-Ad Blocker and Version:  1Blocker 5.3.4
+Web Browser and Version:  Firefox 111.1
+Ad Blocker and Version:  none
 Internet Connection:  WiFi
 Download Speed:  30 mbps
 Screen Recording Software:  iOS Screen Recording
