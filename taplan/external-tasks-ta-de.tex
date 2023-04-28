@@ -1,0 +1,184 @@
+%----------------------------------------------------------------
+%
+%  File    :  external-tasks-ta-de.tex
+%
+%  Author  :  Keith Andrews, IICM, TU Graz, Austria
+%
+%  Created :  30 May 2011
+% 
+%  Changed :  30 May 2011
+% 
+%----------------------------------------------------------------
+
+
+\documentclass[11pt]{article}
+
+\usepackage[          % set page and margin sizes
+  a4paper,
+  top=10mm,
+  bottom=10mm,
+  inner=10mm,
+  outer=20mm,
+  bindingoffset=0cm,
+  head=8mm,
+  foot=8mm,
+  headsep=10mm,
+  footskip=10mm,
+  includeheadfoot,
+]{geometry}
+
+\usepackage{times}              % use PostScript fonts
+
+\usepackage[latin1]{inputenc}   % so can use Umlaut chars  ä, ü
+
+\usepackage[bf,sf]{titlesec}
+
+\usepackage{ifpdf}
+
+
+
+\usepackage[austrian]{babel}       % load babel *before* natbib or jurabib
+
+
+\usepackage{natbib}                        % natbib but with my own bst
+
+% made knat.bst with the custom-bib package v4.13
+\newcommand{\urlprefix}{}                  % get rid of prefix "URL" for urls
+
+
+\usepackage{url}
+
+\usepackage{color}
+\definecolor{darkgreen}{rgb}{0,0.2,0}
+\definecolor{darkblue}{rgb}{0,0,0.2}
+\definecolor{darkred}{rgb}{0.2,0,0}
+\definecolor{lightgrey}{rgb}{0.8,0.8,0.8}
+
+
+
+% for pdflatex
+
+
+\ifpdf
+  \usepackage[pdftex]{graphicx}
+  \DeclareGraphicsExtensions{.pdf,.jpg,.png}
+  \pdfcompresslevel=9
+  \pdfpageheight=297mm
+  \pdfpagewidth=210mm
+  \usepackage[         % hyperref should be last package loaded
+    pdftex,
+    bookmarks,
+    bookmarksnumbered,
+    linktocpage,
+    plainpages=false,  % stops confusion over page iii==3
+    colorlinks,
+    linkcolor=darkred,
+    anchorcolor=red,
+    citecolor=darkgreen,
+    urlcolor=darkblue,
+    pdfauthor={Keith Andrews},
+    pdftitle={},
+    pdfsubject={},
+    pdffitwindow,
+    pdfview={Fit},
+    pdfstartview={Fit},
+    pdfpagemode=None,
+  ]{hyperref}
+\else                      % latex
+  \usepackage{graphicx}
+  \DeclareGraphicsExtensions{.ps}
+\fi
+%end{latexonly}
+
+% end for pdflatex
+
+
+
+
+\newcommand{\halfh}{9cm}     % height of figures for 2 per page
+
+\newcommand{\isbn}[1]
+{
+{
+\ifpdf
+{\small ISBN}
+\href{http://www.amazon.de/exec/obidos/ASIN/#1/keithandrewshci}{#1}%
+\else
+{\small ISBN}
+#1%
+\fi
+}%
+}
+
+
+
+\setlength{\parskip}{3pt plus 1pt minus 0pt}       % vert. space before a paragraph
+
+
+
+
+\tolerance = 5000
+\hyphenpenalty=1000
+
+
+\setcounter{tocdepth}{1}        % lowest section level entered in ToC
+\setcounter{secnumdepth}{2}     % lowest section level still numbered
+
+
+
+
+
+\begin{document}
+
+\pagestyle{empty}
+
+
+\huge
+
+\begin{enumerate}
+\setlength{\itemsep}{3cm plus 2mm minus 2mm}
+\setlength{\parskip}{5mm plus 2mm minus 1mm}
+
+
+
+
+\item Gehe bitte zur Website:
+\begin{quote}
+ryanair.com
+\end{quote}
+Du hast ein paar Minuten, um Dich auf dieser Website umzusehen.
+
+
+
+\filbreak
+
+\item Finde die Telefonnummer für den österreichischen Kundendienst.
+
+
+
+\filbreak
+
+\item Finde heraus, wie viel es kostet einen Kinderwagen mitzunehmen.
+
+
+\filbreak
+
+\item Finde heraus ob man direkt von Berlin nach Stockholm fliegen kann.
+
+
+\filbreak
+
+\item Suche den billigsten Flug ab Karlsruhe und finde heraus wie viel
+  dieser für zwei Erwachsene und zwei Säuglinge kostet. Jeder
+  Erwachsene nimmt ein Gepäckstück (max. 20 kg) mit und bucht
+  ``Priority Boarding'' sowie eine Reiseversicherung dazu. Nenne die
+  Gesamtkosten erst wenn du beim Punkt ``Zahlung'' angelangt bist.
+
+
+
+\end{enumerate}
+
+
+
+\end{document}
+
