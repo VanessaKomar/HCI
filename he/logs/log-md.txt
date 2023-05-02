@@ -1,0 +1,221 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  
+Age: 21  
+Gender: m
+Device: HP Pavilion 15-cb004ng
+OS and Version: Arch Linux
+Screen Size: 15.6″
+Screen Resolution: 1920×1080 
+Web Browser and Version: Firefox 111.0.1
+Ad Blocker and Version: -
+Internet Connection: A1
+Download Speed: 60
+Screen Recording Software: OBS Studio 29.0.2-2
+Recording Resolution: 1920×1080
+Planned Date of Evaluation: 2023-03-26 
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o MD-Neg01
+
+  Title:  pictures are shaking
+
+  Description:
+
+  Pictures in the offer section start to shake when hovering over them.
+
+  Video Clip:  md-neg01-shaking-pictures.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  Moving the cursor on top of the pictures in the offer or shop section
+
+  How Reproducible?:  move cursor over an image in the offer section
+
+
+o MD-Neg02
+
+  Title: unimportant image information
+
+  Description:
+
+  If the user hovers over pictures, it shows unimportant information, and thus blocks the view of the image.
+
+  Video Clip:  md-neg02-picture-information.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  Moving the cursor on top of the pictures in either the recommendation or in the focus section
+
+  How Reproducible?:  move cursor over an image in the described section
+
+
+o MD-Neg03
+
+  Title:  products without pictures
+
+  Description:
+
+  Some pictures in the shop do not have a picture.
+
+  Video Clip:  md-neg03-product-without-picture.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  navigate into the shop and look for products that do not have a picture, for example "Mint Kautabletten"
+
+o MD-Neg04
+
+  Title:  listing of all products
+
+  Description:
+
+  The shop contains a variety of products that are not buyable, but still lists them all. Users need check multiple pages in order to find a product that is in store.
+
+  Video Clip:  md-neg04-list-of-products.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  navigate to the shop section → look at listed products
+
+o MD-Neg05
+
+  Title:  misleading icons
+
+  Description:
+
+  Some icons on the websites are misleading, they appear expandable.
+
+  Video Clip:  md-neg05-misleading-icons.mp4
+
+  Heuristic:  A02 Speak the User's Language
+
+  How Reproducible?:  navigate to service section → hover over the icon shown in the video → try to click it
+
+o MD-Neg06
+
+  Title:  multiple display of the same information
+
+  Description:
+
+  The website provides the same information multiple times on diffrent locations in diffrent forms. The shop section displays the same information many times, but also the shop is listed in multiple ways when clicked once on it
+
+  Video Clip:  md-neg06-multiple-information-display.mp4
+
+  Heuristic:  A02 Speak the User's Language
+
+  How Reproducible?:  navigate to the shop section → in the top the brand is showed with there logo, in the top left on the other hand the name of the brand is listed.
+
+o MD-Neg07
+
+  Title:  automatic phone call
+
+  Description:
+
+  When clicking on the phone number, it trys to automaticly call the number. Most users will not be able to make a phone call with there PC, because a microfone is needed.
+
+  Video Clip:  md-neg07-automatic-call.mp4
+
+  Heuristic:  A05 Error Prevention
+
+  How Reproducible?:  click on the number in the top left of the screen → the pharmacy will be called
+
+o MD-Neg08
+
+  Title:  inconsistent information
+
+  Description:
+
+  The Website shows diffrent kinds of payment methods in diffrent parts of the website, thus confusing users on how you can pay.
+
+  Video Clip:  md-neg08-inconsistent-information.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  navigate to the shop section → look at payment methods on the left → scroll down to the bottom and compare the available methods
+
+o MD-Neg09
+
+  Title:  not existing sub-sites
+
+  Description:
+
+  When clicking on some pictures, the link the picture leads to can not be found and causes a error message.
+
+  Video Clip:  md-neg09-not-existing-sites.mp4
+
+  Heuristic:  A05 Error Prevention
+
+  How Reproducible?:  click on the picture for example the pictures showed in the video → website throws a error that it can not be found
+
+o MD-Neg10
+
+  Title:  confusing shop navigation
+
+  Description:
+
+  When navigating throw the shop, there is no way of listing all products at the same time. It is only possible to show one brand at a time.
+
+  Video Clip:  md-neg10-hard-navigation.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  navigate in the shop section → try to show all products
+
+o MD-Neg11
+
+  Title:  no indicator for similar products
+
+  Description:
+
+  When adding a product to the shopping card and look at similar products, it has no indicator if they are still available or not.
+
+  Video Clip:  md-neg11-no-indicator-similar-products.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  add a product in the shopping card → try to add a product from the "similar product" field
+
+
+
+
+
+Positive Findings
+-----------------
+
+o MD-Pos01
+
+  Title:  inviting website design
+
+  Description:
+
+  The website has matching colors, and a good front page design. Other forms of contact is also directly linked at the front page.
+
+  Video Clip:  md-pos01-inviting-design.mp4
+
+o MD-Pos02
+
+  Title:  showing alternatives to the pharmacy
+
+  Description:
+
+  The Website provides the user with information when the pharmacy has opend and were to find nearby pharmacys.
+
+  Video Clip:   md-pos02-alternatives-to-pharmacy.mp4
+
+o MD-Pos03
+
+  Title:  easy way to get an appointment
+
+  Description:
+
+  The Website provides the user with a formular that can be filled out to make an appointment. Users have less waiting time and an fixed time to visit the pharmacy to get advice from experts.
+
+  Video Clip:   md-pos03-appointment-formular.mp4

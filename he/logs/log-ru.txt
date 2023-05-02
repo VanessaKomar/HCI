@@ -1,0 +1,300 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  Rolando Kristian Unger (RU)
+Age:  22
+Gender:  male
+Device:  iPhone 13 Pro
+OS and Version:  iOS 16.3.1
+Screen Size:  6.06"
+Screen Resolution:  1170x2532
+Web Browser and Version:  Firefox 111.1
+Ad Blocker and Version:  none
+Internet Connection:  WiFi
+Download Speed:  30 mbps
+Screen Recording Software:  iOS Screen Recording
+Recording Resolution:  888×1920
+Planned Date of Evaluation:  2023-04-15
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o RU-Neg01
+
+  Title:  Loading Time Images
+
+  Description:
+
+  Directly at the homepage the pictures of the website take little time toload but still display a loading symbol. The pictures could already be loaded before the user scrolls down to improve the user experience.
+
+
+  Video Clip:  ru-neg01-pictures.mp4
+
+  Heuristic:  A01 Feedback
+
+  Only When:  Loading website for the first time
+
+  How Reproducible?:  First load without cached website on homepage and scrolling down.
+
+
+
+o RU-Neg02
+
+  Title:  Map Loading Time
+
+  Description:
+
+  When searching for other pharmacies the map never loads and displays an error message.
+
+
+  Video Clip:  ru-neg02-map.mp4
+
+  Heuristic:  A05 Error Prevention
+
+  Only When:  
+
+  How Reproducible?:  TopRight->Bereitschaft, wait for it to load
+
+
+
+o RU-Neg03
+
+  Title:  Header Jump
+
+  Description:
+
+  When scrolling down from the top of the homepage, there is a weird jump in the header part.
+
+
+  Video Clip:  ru-neg03-header.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage->Scroll down
+
+
+
+o RU-Neg04
+
+  Title:  Filter Button
+
+  Description:
+
+  When searching for products and then scrolling down, there is a green button which covers parts of the product information.
+
+
+  Video Clip:  ru-neg04-filter.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage->Search->Scroll down
+
+
+
+o RU-Neg05
+
+  Title:  Site Not Found
+
+  Description:
+
+  When on the homepage and clicking "go to shop" on the "Hyaluron Tagescreme", the website displays an error with the message that the site couldn't be found.
+
+
+  Video Clip:  ru-neg05-site.mp4
+
+  Heuristic:  A05 Error Prevention
+
+  Only When:  
+
+  How Reproducible?:  Homepage->Scroll down->Zum Shop(Hyaleron Tagescreme)
+
+
+
+o RU-Neg06
+
+  Title:  Different Navigation Bar
+
+  Description:
+
+  There are different navigation bars for different parts of the website. For example the homepage and the shop navigation bars differ.
+
+
+  Video Clip:  ru-neg06-navbar.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:  
+
+  How Reproducible?:  Homepage->TopRight->Shop->TopRight
+
+
+
+o RU-Neg07
+
+  Title: Scale of Slide Images 
+
+  Description:
+
+  The slide images at the beginning of the homepage are not scaled and displayed properly.
+
+
+  Video Clip:  ru-neg07-scale.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage
+
+
+
+o RU-Neg08
+
+  Title: Navigation Bar Dropdown
+
+  Description:
+
+  When clicking at "Services" in the navigation bar, a website is immediately loaded instead of dropping down the subsections. To drop down the subsections
+  of "Services" the user has to click on a little greyed out plus sign.
+
+
+  Video Clip:  ru-neg08-drop.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage->TopRight->Services
+
+
+
+o RU-Neg09
+
+  Title: Scrolling Twice
+
+  Description:
+
+  When reading up the description of a product there are two scrollbars. One of those is not even visible to the user.
+
+
+  Video Clip:  ru-neg09-scroll.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage->TopRight->Shop->Product(Not all)->Scroll down->Additional Information
+
+
+
+o RU-Neg10
+
+  Title: Slide Buttons 
+
+  Description:
+
+  The slide buttons on the Homepage differ from the slide buttons in the About Us section
+
+
+  Video Clip:  ru-neg10-slide.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:  
+
+  How Reproducible?:  Homepage->About Us
+
+
+
+o RU-Neg11
+
+  Title: Pharmacy Information
+
+  Description:
+
+  In the "Bereitschaft" section, the information of the different pharmacies is not displayed and scaled properly.
+
+
+  Video Clip:  ru-neg11-info.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:  
+
+  How Reproducible?:  Homepage->TopRight->Bereitschaft->ScrollDown
+
+
+
+o RU-Neg12
+
+  Title: Product-Link Missing
+
+  Description:
+
+  There is an offer section where products are listed with discounts. But when the user clicks on one such offer, there is just a short discription
+  but no link or button to add the product to the cart
+
+
+  Video Clip:  ru-neg12-product.mp4
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  Only When:  
+
+  How Reproducible?:  Homepage->Scroll down->Offers
+
+
+Positive Findings
+-----------------
+
+o RU-Pos01
+
+  Title:  Top Button
+
+  Description:
+
+  If a user has scrolled down there is a little button which brings the user back to the top.
+
+
+  Video Clip:  ru-pos01-top.mp4
+
+  How Reproducible?:  Homepage->Scroll down
+
+
+
+o RU-Pos02
+
+  Title:  News Section
+
+  Description:
+
+  For useres that want to be kept up to date, there is a news section to stay informed.
+
+
+  Video Clip:  ru-pos02-news.mp4
+
+  How Reproducible?:  Homepage->Scroll down->News
+
+
+
+o RU-Pos03
+
+  Title:  Availability
+
+  Description:
+
+  The availability of a product is already shown before the user even enters the specific product page.
+
+
+  Video Clip:  ru-pos03-availability.mp4
+
+  How Reproducible?:  Homepage->TopRight->Shop->Product
+

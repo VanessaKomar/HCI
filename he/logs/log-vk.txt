@@ -1,0 +1,367 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  Vanessa Komar
+Age:  22
+Gender:  Female
+Device:  iPhone 13 Pro
+OS and Version:  iOS 16.1.1
+Screen Size:  6.06"
+Screen Resolution:  1170×2532
+Web Browser and Version:  Chrome 111.0.5563.72
+Ad Blocker and Version:  Chrome built-in ad blocker
+Internet Connection:  WiFi
+Download Speed:  20 mbps
+Screen Recording Software:  iOS Screen Recording
+Recording Resolution:  888×1920
+Planned Date of Evaluation:  2023-04-15
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o VK-Neg01
+
+  Title: Parts of screen cut off
+
+  Description:
+
+  There are parts of the screen that are cut of on the mobile version. On the 
+  main screen of the website, the first image you see is cut off. There is also 
+  a title that is cut off on the screen.
+
+
+  Video Clip:  vk-neg01-cutoff.mp4 
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  Main site
+                      Main site -> scroll to "Producktempfehlung"
+
+
+
+o VK-Neg02
+
+  Title: Parts of an item are clickable while other parts aren’t
+
+  Description:
+
+  On the website there are items, including an image and a textbox with title, 
+  description and other info regarding the item, however only clicking the image 
+  or title leads to the new item page. This means that not the whole section is 
+  clickable which forces the user to be more precise with their click.
+
+
+  Video Clip:  vk-neg02-not-clickable.mp4
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  How Reproducible?:  Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen" 
+
+
+
+o VK-Neg03
+
+  Title:  Information at bottom of page is excessive
+
+  Description:
+
+  At the bottom of many of the pages there includes a large section regarding 
+  kontact information as well as information about the mobile app. While this 
+  information is important it is not something that is needed at the bottom of 
+  most every page.
+
+  Video Clip:  vk-neg03-unnec-info.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  Scroll to bottom of main site
+
+
+
+o VK-Neg04
+
+  Title: Bottom section included on some pages but not others
+
+  Description:
+
+  Some pages on the website have the whole bottom section with the contact 
+  information and information regarding the mobile apps while other others pages 
+  only have the bottom logo part. This shows another difference in the pages.
+
+
+  Video Clip:  vk-neg04-kontact-not-always-there.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen" 
+
+
+
+o VK-Neg05
+
+  Title: Important information on screen covered up
+
+  Description: 
+
+  There are important information that is on the screen that is covered up by 
+  other small things. This occurs throughout the website such as when clicking 
+  through the images of the Angebote on the main site, some of the names of the 
+  items are covered by the green arrow. This also occurs on the 404 page the 
+  pop-up is blocking the text.
+
+  Video Clip:  vk-neg05-info-covered.mp4
+               vk-neg05-info-covered-404.mp4
+
+  Heuristic:  A10 Help and Documentation
+
+  How Reproducible?:  Main site -> Angebote -> left arrow
+                      Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen" -> "Von"
+
+
+
+o VK-Neg06
+
+  Title: Display under Angebote are formatted differently
+
+  Description:
+
+  There are differences in the formating of items, such as under the Angebote
+  section. Some of these items are formatted well with the image taking up half
+  of the box and the text formatted at the bottom of the box but others have the 
+  text at the half way mark leaving a lot of empty space at the bottom.
+
+  Video Clip:  vk-neg06-format-diff.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  Main site -> Angebote -> left arrow
+
+
+
+o VK-Neg07
+
+  Title: Difficulty navigating through page
+
+  Description:
+
+  There are many parts of the website that are difficult to navigate to and to 
+  get to a specific page you need to do a lot of unnecessary steps. To see all 
+  of the angebote offered on the page you need to click on a product and then 
+  click the "Angebote und Aktionen" title. The wishlist is also very difficult
+  to navigate to.
+
+
+  Video Clip:  vk-neg07-wishlist-nav.mp4
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  How Reproducible?:  Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen"
+
+
+
+o VK-Neg08
+
+  Title: Inconsistencies and errors throughout website
+
+  Description:
+
+  The website has inconsistencies such as with the saming of the pages on the 
+  breadcrumbs. The breadcrumb is “Start / Angebote und Aktionen / Niconex Spray”
+  but when you click on angebote and aktionen the title under to history changes
+  to “Start / Kategorie “Angebote und Aktionen”. Error/inconsistencies also 
+  occurs on the products page when some items have “Von Bahnhof Apotheke” while
+  others only include “Von”, and under termin vereinbaren, name doesn’t have 
+  same “*” to show that it is required.
+
+  Video Clip:  vk-neg08-text-inconsistencies.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen"
+
+
+
+o VK-Neg09 
+
+  Title: Form doesn't ensure that a phone number is provided
+
+  Description:
+
+  While the form on the website does make sure that the fields are filled in, 
+  the form doesn’t check to see if the user is inputting a valid phone number. 
+  The user is able to input any type of text into the field and submit the 
+  information.
+  
+
+  Video Clip:  vk-neg09-form-number.mp4
+
+  Heuristic:  A05 Error Prevention
+
+  How Reproducible?:  Main site -> Shop -> click product -> "Frage zum Produkt?"
+
+
+
+o VK-Neg10
+
+  Title:  Logo isnt all the way at the top left of screen
+
+  Description:
+
+  The logo that is on the top of the screen has an extra blank white space at
+  the left of it that has no use. It is a very obvious error that is on the 
+  screen the entire tie.
+
+
+  Video Clip:  vk-neg10-logo-placement.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  How Reproducible?:  Main site
+
+
+
+o VK-Neg11
+
+  Title: Sidebar menu changes depending on what page you are on
+
+  Description:
+
+  The sidebar is a part of the website that allows the users to easily navigate
+  throughout the site. The sidebar menu for this site changes depending on the 
+  page that the user is on. 
+
+  
+  Video Clip:  vk-neg11-sidebar-diff.mp4
+
+  Heuristic:  A06 Recognition Rather Than Recall
+
+  How Reproducible?:  Main site -> Sidebar
+                      Shop -> Sidebar
+
+
+
+o VK-Neg12
+
+  Title:  “Mein konto and warenkorb” only placed at top of page
+
+  Description:
+
+  The login for the website are only at the very top of the screen when you 
+  scroll all the way up. While this is a common practice to have it is also 
+  useful to have
+
+  Video Clip:  vk-neg12-login-at-top.mp4
+
+  Heuristic:  A04 Consistency
+
+  How Reproducible?:  Main site
+
+
+
+o VK-Neg13
+
+  Title: Store includes items that are not avaible
+
+  Description:
+
+  The store on the website allows the user to go through the store, however 
+  there is no way to filter out items that are not stocked. While this is useful
+  when looking for a specific product for those that are looking to purchase an 
+  item it can get frusterating to see a lot of products that are not in stock.
+
+
+  Video Clip:  vk-neg13-item-unavailable.mp4
+
+  Heuristic:  
+
+  How Reproducible?:  Shop -> Famalie & Co
+
+
+
+o VK-Neg14
+
+  Title: Mobile app information not useful with QR code
+
+  Description:
+
+  The site has inofmation regarding the mobile app that the apotheke has, 
+  however part of the information presented is a QR code whcich the user would 
+  not be able to scan as they are currently on the mobile site. This makes this 
+  information unnecessary.
+
+
+  Video Clip:  vk-neg14-app-qrcode.mp4
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  How Reproducible?:  Main site -> sidebar -> Leistungen -> App
+
+
+
+
+
+
+
+
+
+
+Positive Findings
+-----------------
+
+o VK-Pos01
+
+  Title:  Correction to make sure all required fields of form are complete
+
+  Description:
+
+  Two or more sentences describing the positive finding.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  vk-pos01-form-field.mp4
+
+  How Reproducible?:  Main site -> Shop -> click product -> "Frage zum Produkt?"
+
+
+
+o VK-Pos02
+
+  Title:  The website includes breadcrumbs throughout it's pages
+
+  Description:
+
+  The website has breadcrumbs on different pages that show the navigation. This
+  includes the breadcrumbs under the Kasse as well as 
+  helps the users with easily going back to a different page when they need to 
+
+
+  Video Clip:  vk-pos02-breadcrumbs.mp4
+
+  How Reproducible?:  Main site -> Angebote -> click product -> breadcrumb click
+                      "Angebote und Aktionen"
+
+
+
+  o VK-Pos03
+
+  Title:  Has a nice pop up for “Frage zum Produkt?” where you can send message
+
+  Description:
+
+  Two or more sentences describing the positive finding.
+  Here is the second sentence. Here is a third sentence.
+
+
+  Video Clip:  vk-pos03-frage-form.mp4
+
+  How Reproducible?:  Main site -> Shop -> click product -> "Frage zum Produkt?"
+

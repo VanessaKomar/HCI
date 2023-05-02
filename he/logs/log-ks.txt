@@ -1,0 +1,342 @@
+
+Mobile Evaluation Log
+=====================
+
+Evaluator:  Katharina Schmied
+Age:  20
+Gender:  female
+Device:  Lenovo ThinkPad T14 Gen 1 Laptop
+OS and Version:  Windows 10 Pro 
+Screen Size:  14"
+Screen Resolution:  1920x1080
+Web Browser and Version: Chrome 111.0.5563.111 (64-Bit) 
+Ad Blocker and Version:  Total Adblock - Ad Blocker 3.7.0
+Internet Connection:  WiFi
+Download Speed:  52 mbps
+Screen Recording Software:  OBS Studio 29.0.2
+Recording Resolution:  1920x1080
+Date of Evaluation:  14.04.2023
+Time of Evaluation:  19:45-21:30
+
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o KS-Neg01
+
+  Title:  Cookies buttons are different
+
+  Description:
+
+  The buttons where you choose how many cookies you want to accept are in a different size and colour. This can
+  influence your choice.
+
+
+  Video Clip:  ks-neg01-cookies-buttons-are-different.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Delete all cookies
+
+
+
+o KS-Neg02
+
+  Title:  Unpleasant text on the picture
+
+  Description:
+
+  The text and it's background do not match the picture. It is not aesthetic and unpleasant to look at.
+
+
+  Video Clip:  ks-neg02-unpleasant-text-on-picture.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Home"
+
+
+
+o KS-Neg03
+
+  Title:  Picture with links unnecessary
+
+  Description:
+
+  The links on the picture are unnecessary. They are already in the row above the picture. 
+
+
+  Video Clip:  ks-neg03-unnecessary-links.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Home"
+
+
+
+
+o KS-Neg04
+
+  Title:  links are missing
+
+  Description:
+
+  When navigating through the shop section, the links for the other sections like "Home" and "Leistungen" are
+  missing. If you want to change to these sections, you have to press the backspace (for several times).
+
+
+  Video Clip:  ks-neg04-missing-links.mp4
+
+  Heuristic:  A03 Reversible Actions
+
+  Only When:
+
+  How Reproducible?:  Link "Shop"
+
+
+
+
+o KS-Neg05
+
+  Title:  Background in white
+
+  Description:
+
+  The background should also be in white. There are too many colours, which is aesthetically unpleasant.
+
+
+  Video Clip:  ks-neg05-white-background.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Home"
+
+
+
+o KS-Neg06
+
+  Title:  Disturbing background
+
+  Description:
+
+  The plants in the background should not be there. When you want to read the information about the product, the
+  background is disturbing.
+
+
+  Video Clip:  ks-neg06-plants-in-background.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Home"
+
+
+
+o KS-Neg07
+
+  Title:  Fixed place for buttons
+
+  Description:
+
+  The button with that you can ask questions about the product should have a fixed place. When you want to scroll
+  down, it goes along. This issue can be disturbing when you read want to read the text.
+
+
+  Video Clip:  ks-neg07-fixed-place-for-buttons.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  "Shop" -> any of the links ("Familie & CO", "Gesundheit", etc.) -> any of the products
+
+
+
+o KS-Neg08
+
+  Title:  Design of product descriptions
+
+  Description:
+
+  At the descriptions for the titles the titles should be formated in a different way (e.x. in thick letters) so
+  that the text is more overseeable. This is especially important for long texts.
+
+
+  Video Clip:  ks-neg08-design-of-product-descriptions.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  "Shop" -> any of the links ("Familie & CO", "Gesundheit", etc.) -> any of the products
+
+
+
+o KS-Neg09
+
+  Title:  Extra side for news about health
+
+  Description:
+
+  When you want to read the news about health you have to click the button everytime you want to get access to the
+  other articles. An extra side with all the articles would be more overseeable and more practical.
+
+
+  Video Clip:  ks-neg09-extra-side-for-news.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Aktuelles"
+
+
+
+o KS-Neg10
+
+  Title:  Opening links in same tab
+
+  Description:
+
+  When you click on the link for the information about the shipment it is openend in another tab. The other links
+  in the website get openend in the same tab. It should always be done the same way.
+
+
+  Video Clip:  ks-neg10-opening-links.mp4
+
+  Heuristic:  A04 Consistency
+
+  Only When:
+
+  How Reproducible?:  "Shop" -> any of the links ("Familie & CO", "Gesundheit", etc.) -> Link "Versand" on any of
+		      the products
+
+
+
+o KS-Neg11
+
+  Title:  Placed links disorderly
+
+  Description:
+
+  In the headings in the shop section the links should be in an orderly manner. Some links are too far on the 
+  right.
+
+
+  Video Clip:  ks-neg11-placed-links-disorderly.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  Link "Shop"
+
+
+
+o KS-Neg12
+
+  Title:  Cut off screen
+
+  Description:
+
+  In the section of family & co in the category of pregnancy the screen is cut off. You can't see the entire
+  products.
+
+
+  Video Clip:  ks-neg12-cut-off-screen.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?:  "Shop" -> "Familie & Co" -> "Schwangerschaft"
+
+
+
+
+o KS-Neg13
+
+  Title:  Show more products
+
+  Description:
+
+  In the shop section there are only shown 16 products per side. There is left space for two more products. It's
+  better to either show 15 or to show 18 products.
+
+
+  Video Clip:  ks-neg13-show-more-products.mp4
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When:
+
+  How Reproducible?: "Shop" -> any of the links ("Familie & CO", "Gesundheit", etc.) 
+
+
+
+
+
+Positive Findings
+-----------------
+
+o KS-Pos01
+
+  Title:  Different categories are useful
+
+  Description:
+
+  It ist useful that the headings show the different categories. Thereby you can choose and find your product
+  easily.
+
+
+  Video Clip:  ks-pos01-different-categories.mp4
+
+  How Reproducible?:  Link "Shop" or any of the other links ("Familie & CO", "Gesundheit", etc.)
+
+
+
+o KS-Pos02
+
+  Title:  Available product
+
+  Description:
+
+  It is practical that you can immediately see if the product is available. 
+
+
+  Video Clip:  ks-pos02-available-product.mp4
+
+  How Reproducible?:  Link "Shop" or any of the other links ("Familie & CO", "Gesundheit", etc.)
+
+
+
+o KS-Pos03
+
+  Title:  Fixed bar
+
+  Description:
+
+  It is good that the row with the important links is fixed. Therefore you don't need to scroll up everytime you
+  want to change the section.
+
+
+  Video Clip:  ks-pos03-fixed-bar.mp4
+
+  How Reproducible?:  Link "Home"
+
+
+
+
+
+
